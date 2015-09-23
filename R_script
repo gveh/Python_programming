@@ -1,3 +1,4 @@
 # das ist ein R-Script
 b <- 1.5 * 1:20
 c <- 5*3 + b
+d <- c^b
